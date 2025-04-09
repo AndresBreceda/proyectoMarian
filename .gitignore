@@ -1,0 +1,24 @@
+# Archivos de configuración sensibles
+wp-config.php
+
+# Carpetas generadas automáticamente
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Archivos del sistema
+*.log
+*.sql
+*.zip
+*.rar
+*.tar.gz
+.DS_Store
+Thumbs.db
+
+# Node.js (si usas herramientas tipo webpack)
+node_modules/
+
+# Archivos ocultos y temporales
+.env
+*.swp
+*.swo

@@ -1,0 +1,17 @@
+ul.woocommerce-shipping-methods li{
+    display:flex !important;
+    align-items: center !important;
+    margin-bottom:10px !important;
+}
+
+ul.woocommerce-shipping-methods li > label{
+    display:flex !important;
+    align-items: center  !important;
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+
+#shipping_method input.shipping_method{
+    position: static !important;
+    margin-right: 8px !important;
+}

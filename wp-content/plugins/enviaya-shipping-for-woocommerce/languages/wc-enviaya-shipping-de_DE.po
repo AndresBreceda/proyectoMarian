@@ -1,0 +1,2044 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1\n"
+
+#, php-format
+msgid "Please enter a valid API key to retrieve your origin addresses."
+msgstr "Por favor ingresa una clave API válido para recibir tus direcciones de origen."
+
+msgid "Shipments"
+msgstr "Envíos"
+
+msgid "Shipment"
+msgstr "Envío"
+
+msgid "Purchased service:"
+msgstr "Servicio comprado:"
+
+msgid "Download Label"
+msgstr "Descargar etiqueta"
+
+msgid "Create shipment"
+msgstr "Crear envío"
+
+msgid "Shipping service:"
+msgstr "Servicio de envío:"
+
+msgid "Service:"
+msgstr "Servicio:"
+
+msgid "Est. Delivery:"
+msgstr "Entega est.:"
+
+msgid "Tracking no."
+msgstr "No. de Rastreo"
+
+msgid "Shipment no."
+msgstr "No del envío"
+
+msgid "Track"
+msgstr "Rastrear"
+
+msgid "The tracking number was updated successfully."
+msgstr "Se actualizó exitosamente el número de rastreo."
+
+msgid "The status was updated successfully."
+msgstr "Se actualizó exitosamente el estatus."
+
+msgid "Exception:"
+msgstr "Excepción:"
+
+msgid "The label URL was updated successfully."
+msgstr "Se actualizó exitosamente el enlace de la etiqueta."
+
+msgid "The shipment amount was updated successfully."
+msgstr "Se actualizó exitosamente el monto del envío."
+
+msgid "The destination was updated successfully."
+msgstr "Se actualizó exitosamente la dirección del destino."
+
+msgid "Origin direction was successfully updated."
+msgstr "Se actualizó exitosamente la dirección del origen."
+
+msgid "An error ocurred"
+msgstr "Ocurrió un error"
+
+msgid "Unsuccessful"
+msgstr "Sin exíto"
+
+msgid "Personalize your store page by telling customers a bit about yourself."
+msgstr ""
+
+msgid "You are not allowed to view this page."
+msgstr "No tienes permiso de ver esta página."
+
+msgid "Update settings"
+msgstr "Actualizar configuración"
+
+msgid "Error: This request method is not supported."
+msgstr "Error: Esta solicitud no está soportado."
+
+msgid "Service name"
+msgstr "Nombre de servicio"
+
+msgid "Shipping Services Display"
+msgstr "Visualización de servicios de envío"
+
+msgid "Shipping Service Design"
+msgstr "Diseño de los servicios de envío"
+
+msgid "This option defines how the shipping services are displayed on the cart and checkout pages. Please note: If you enable the advanced design, which includes the carrier logo and some other tweaks, we need to hook into your theme. In case you notice any visual design problems, please use the default design."
+msgstr "Esta opción define como se mostrarán los nombres de las opciones de envío en el carrito y en el checkout. Atención: si activas la opción de diseño avanzado que incluye el logo de la mensajería y otros ajustes, tenemos que ajustar tu plantilla de diseño. En caso de que haya algún problema de visualización, te recomendamos utilizar la opción de diseño estandar. "
+
+msgid "Advanced shipping services design"
+msgstr "Diseño avanzado de servicios de envío"
+
+msgid "Default shipping services design"
+msgstr "Diseño predeterminado de servicios de envío"
+
+msgid "Display Carrier Logo"
+msgstr "Mostrar el logotipo de la mensajería"
+
+msgid "Carrier and services configuration."
+msgstr "Configuración de paqueterías y servicios."
+
+msgid "You most likely do not want to show more than 2-4 shipment options to your store's customers. In order to avoid displaying a big number of shipment services and improve rating response times, you can define shipment filters for your billing account. Typical filters are: <ul class='ul-info'><li>Enable only certain carriers</li><li>Enable only certain services</li><li>Only show the cheapest, quickest or best cost-benefit relation service</li></ul><div class=url><a href=%s target=_blank>You can configure your shipment filters here.</a></div>"
+msgstr "Es probable que no quieras mostrar más de 2-4 opciones de envío en tu tienda. Para evitar desplegar muchas opciones en tu tienda y mejorar el tiempo de respuesta de la cotización, puedes definir filtros en tu cuenta de facturación. Los filtros más sugeridos son: <ul class='ul-info'><li>Elegir solo ciertas paqueterías</li><li>Elegir solo ciertos servicios</li><li>Solo mostrar los envíos más económicos, el más rápido o el mejor en relación de costo- beneficio</li></ul><div class='url'><a href=%s target=blank>Puedes configurar los filtros aquí</a></div>"
+
+msgid "You most likely do not want to show more than 2-4 shipment options to your store's customers. In order to avoid displaying a big number of shipment services and improve rating response times, you can define shipment filters for your billing account. Typical filters are:"
+msgstr "Es probable que no quieras mostrar más de 2-4 opciones de envío en tu tienda. Para evitar desplegar muchas opciones en tu tienda y mejorar el tiempo de respuesta de la cotización, puedes definir filtros en tu cuenta de facturación. Los filtros más sugeridos son:"
+
+msgid "Enable only certain carriers"
+msgstr "Elegir solo ciertas paqueterías"
+
+msgid "Enable only certain services"
+msgstr "Elegir solo ciertos servicios"
+
+msgid "Only show the cheapest, quickest or best cost-benefit relation service"
+msgstr "Solo mostrar los envíos más económicos, el más rápido o el mejor en relación de costo-beneficio"
+
+msgid "You can configure your shipment filters here."
+msgstr "Puedes configurar los filtros aquí."
+
+msgid "Custom Design"
+msgstr "Diseño customizado"
+
+msgid "If you like to, you can customize the design with your own styles using the following classes:<ul class='ul-info'><li>enviaya_carrier_logo</li><li>enviaya_delivery_date</li><li>enviaya_amount</li><li>enviaya_service</li></ul>"
+msgstr "Si gustas, puedes cutomizar el diseño usando estas clases de css:<ul class='ul-info'><li>enviaya_carrier_logo</li><li>enviaya_delivery_date</li><li>enviaya_amount</li><li>enviaya_service</li></ul>"
+
+msgid "Important hint: The advanced shipping service design can cause conflicts with your theme, as we habe to add some styles and custom code into the WooCommerce cart and checkout pages. Please switch to the default design if you are having any problems on these pages."
+msgstr "Aviso importante: El diseño avanzado de los servicios de envío puede causar conflictos con tu tema, porque tenemos que agregar unos estilos y códigos a las páginas del carrito y de la caja. Por favor cambia al diseño estándard si tienes algun problema en estas páginas."
+
+msgid "Advanced Configuration"
+msgstr "Configuración avanzada"
+
+msgid "Update shipping cost on add to cart"
+msgstr "Actualizar costos del envío al agregar al carrito"
+
+msgid "If you enable this option, the plugin will calculate and update the shipment services each time your customer adds an item to the shopping cart.</br> We recommend to disable this option, as it is executed each time a customer adds an item to the shopping cart. The add to cart action will take slightly longer than normally (as it has to wait for the response of our shipping API) and can impact the customer experience."
+msgstr "Si habilitas esta opción, la extensión va a calcular y actualizar los servicios de envío cada vez cuando tu cliente agregar un producto a su carrito.</br> Recomendamos desactivar esta opción, porque se ejecuta cada vez cuando se agrega un producto al carrito. La acción “Agregar al carrito” ya a tardar un poco más de lo normal (porque tiene que esperar la respuesta de nuestra API) y puede impactar de una manera negativa la experiencia del cliente."
+
+msgid "Shipment rating is not available at the moment. Please try again later."
+msgstr "La cotización de envíos no está disponible en este momento. Favor de intentar más tarde."
+
+msgid "The shipment cannot be booked as some information is missing."
+msgstr "No se puede programar el envío porque falta datos:"
+
+msgid "Sender Address"
+msgstr "Dirección de origen"
+
+msgid "Add sender address"
+msgstr "Añadir dirección de origen"
+
+msgid "System Info"
+msgstr "Información del sistema"
+
+msgid "Download system logs"
+msgstr "Descargar logs del sistema"
+
+msgid "The shipment could not be booked."
+msgstr "No se pudo programar el envío."
+
+msgid "If you enable this option, your vendors can integrate {#brand_name#} shipping into their stores, using their own API credentials and plugin configuration."
+msgstr "Si habilitas esta opción, los vendedores de tu marketplace podrán integrar los servicios de envío de {#brand_name#} en sus tiendas, usando sus propias credenciales de la API y su propia configuración de la extensión."
+
+msgid "Enable Dokan integration"
+msgstr "Habilitar integración Dokan"
+
+msgid "Enable standard shipping (Contingency only)"
+msgstr "Habilitar envío estándar (solo contingencia)"
+
+msgid "Enable express shipping (Contingency only)"
+msgstr "Habilitar envío Exprés (solo contingencia)"
+
+msgid "Unfortunately, no shipment services could be obtained. Please try again or create your shipment on on the {#brand_name#} website."
+msgstr "Lamentablemente no se pudo obtener ningún servicio de envío. Por favor intenta nuevamente o generar tu envío en la página web de {#brand_name#}."
+
+msgid "Get shipment services"
+msgstr "Obtener servicios de envío"
+
+msgid "The dynamic service name is dynamically created based on the transit time. A service which arrives today will be called 'Same Day Delivery', a service which arrives tomorrow '1 Day Delivery' and so on.</br>The standardized service name uses the same service name across all carrier services. For example, a next day service will always be called next day, an economic service always be called economic, independent on the carrier.</br>The carrier service name is the senderal service name used by the carrier."
+msgstr "El nombre del dinámico del servicio se crea en función del tiempo de tránsito. Un servicio que llega hoy se llamará 'Entrega en el mismo día', un servicio que llega mañana 'Entrega de 1 día' y así sucesivamente.</br> El nombre de servicio estandarizado utiliza el mismo nombre de servicio en todos los servicios de operador. Por ejemplo, un servicio al día siguiente siempre se llamará al día siguiente, un servicio económico siempre se llamará económico, independiente del operador."
+
+msgid "Example:"
+msgstr "Ejemplo:"
+
+msgid "Are you sure you want to uninstall the plugin?"
+msgstr "¿Estás seguro que deseas desintalar la extensión?"
+
+msgid "The settings were updated."
+msgstr "Se actualizó la configuración"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "See detailed tracking"
+msgstr "Ver seguimiento detallado"
+
+msgid "here"
+msgstr "aquí"
+
+msgid "1 line"
+msgstr "1 línea"
+
+msgid "2 lines"
+msgstr "2 líneas"
+
+msgid "Use dynamic service name"
+msgstr "Usar nombre de servicio dinámico"
+
+msgid "Use standardized service name"
+msgstr "Usar nombre de servicio estandarizado"
+
+msgid "Use carrier service name"
+msgstr "Usar el nombre del servicio del operador"
+
+msgid "Do not show service name"
+msgstr "No mostrar nombre del servicio"
+
+msgid "Est. delivery"
+msgstr "Entrega est."
+
+msgid "Select a shipping service:"
+msgstr "Seleccione un servicio de envío"
+
+msgid "Group by carrier"
+msgstr "Agrupar por transportista"
+
+msgid "Status"
+msgstr "Estatus"
+
+msgid "PHP version:"
+msgstr "Versión PHP:"
+
+msgid "Wordpress version:"
+msgstr "Versión Wordpress:"
+
+msgid "Woocommerce Version:"
+msgstr "Versión Woocommerce:"
+
+msgid "cURL:"
+msgstr "cURL:"
+
+msgid "Support Code"
+msgstr "Código de soporte"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Domain"
+msgstr "Dominio"
+
+msgid "enviaya.com.mx"
+msgstr "enviaya.com.mx"
+
+msgid "EnvíaYa"
+msgstr "EnvíaYa"
+
+msgid "Shipments ({#brand_name#})"
+msgstr "Envíos ({#brand_name#})"
+
+msgid "Shipping"
+msgstr "Envíos"
+
+msgid "Hey there! Let’s get started and configure your new shipping plugin."
+msgstr "¡Bienvenido! Empecemos y configuremos tu nueva extensión de envíos."
+
+msgid "First of all, we will need your API keys to get started. You can get it here:"
+msgstr "Para comenzar, necesitaremos sus API keys para comenzar. Las puedes conseguir aquí:"
+
+msgid "Get my API keys"
+msgstr "Obtener mis API keys"
+
+msgid "Billing account"
+msgstr "Cuenta de facturación"
+
+msgid "We noticed that you have more than one billing account configured for your user. Please select one here:"
+msgstr "Notamos que tienes más de una cuenta de facturación configurada con este usuario. Por favor selecciona una aquí:"
+
+msgid "Sender address"
+msgstr "Dirección de origen"
+
+msgid "Thanks! Now that we know your API key, we will need you to enter a sender address. You can do so here:"
+msgstr "¡Gracias! Ahora que tenemos tu API Key, necesitas ingresar una dirección de origen. Puedes hacerlo aquí:"
+
+msgid "Enter sender address"
+msgstr "Ingresar dirección de origen"
+
+msgid "Once you have entered a sender address, you can choose it from this list:"
+msgstr "Una vez que hayas ingresado la dirección, podrás elegirla en la lista:"
+
+msgid "Optional: Shipment filters"
+msgstr "Opcional: Filtros de envío"
+
+msgid "We strongly recommend you to define shipment filters. This will not only make the shipment rating faster, but will also make sure that you do not overwhelm your customers with too many shipment services. Ideally you probably just want to show them 2-3 options. </br> </br> Shipment filters allow you to select only certain carriers and also to define advanced filter such as only showing the fastest and the cheapest service, for example. You can configure your shipment filters here, they will be applied automatically once you saved them. </br> </br> <a href=https://app.enviaya.com.mx/shipping/quoting_filters target=_blank>Configure shipment filters</a>"
+msgstr "Te recomendamos ampliamente que configures filtros de paqueterías y servicios. Esto no solo hará que las cotizaciones sean más rápidas, sino que ayudará a que tus clientes no vean demasiadas opciones de envío. Lo ideal es mostrar de 2 a 3 opciones. Los filtros de paqueterías y servicios te permiten seleccionar ciertas paqueterías y servicios de cada una, así como definir filtros avanzados para mostrar, por ejemplo, sólo la opción más rápida o el servicio más económico. Puedes configurar estos filtros aquí, y se aplicarán automáticamente una vez que guardes los cambios.</br> </br> <a href=https://app.enviaya.com.mx/shipping/quoting_filters target=blank>Configurar filtros de paqueterías y servicios</a>"
+
+msgid "You are all set. Please feel free to check any of the other configurations you can do in our plugin, or just enjoy your new, fully automated shipping process."
+msgstr "Ya estás listo para disfrutar de un proceso de envío completamente automatizado. Si deseas hacer cambios en cualquier otra configuración, puedes hacerlo directamente desde nuestro plugin."
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "The API key provided does not exist."
+msgstr "La clave API proporcionado no existe."
+
+msgid "Send shipment notifications"
+msgstr "Enviar notificaciones de envío"
+
+msgid "If this option is enabled, we will send a notification after you prepared the shipment and when it was delivered to your customers. You can apply your proper branding (logo, colors, sender email) to this email if you desire. To configure it, please open the menu “Branding” in your user´s area on our website."
+msgstr "Si esta opción está activa, enviaremos una notificación después de que el envío haya sido creado, notificando al destinatario detalles de la entrega. Puedes personalizar este correo si así lo deseas (por ejemplo logo, colores, dirección de remitente). Para hacerlo, por favor localiza el menú 'Branding' dentro de tu cuenta en nuestra plataforma."
+
+msgid "Please select which account you want to your stores shipments to be billed to. If you want to manage more than one billing account (for example for internal reporting reasons)."
+msgstr "Por favor selecciona la cuenta que deseas usar para la facturación de los envíos. Si deseas usar más de una cuenta de facturación (para gestión de reportes internos, por ejemplo)."
+
+msgid "You can create additional billing accounts here:"
+msgstr "Puedes crear cuentas de facturación adicionales aqui:"
+
+msgid "If you want to offer your customers free shipping, you can configure it in your user's area on <a href=https://{#api_link#} target=_blank>{#api_link#}</a>. You will find the setting in your <a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>billing account's configuration</a>."
+msgstr "Si quieres ofrecer envíos gratuitos a tus clientes, lo puedes hacer en el área de tu usuario en <a href=https://{#api_link#} target=_blank>{#api_link#}</a>. Encuentras la opción en la <a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>configuración de tu cuenta.</a>."
+
+msgid "Remove all settings"
+msgstr "Eliminar toda la configuración"
+
+msgid "Remove all settings and data when uninstalling the plugin."
+msgstr "Eliminar la configuración y los datos completos cuando se desinstala la extensión"
+
+msgid "This option will remove all the plugins data from your database on uninstall. Please use this option with care, as it will affect all orders which have been shipped using the plugins functionality. Some of the orders shipping data will be lost."
+msgstr "Esta opción eliminará completamente la información del plugin en su base datos. Por favor considere que la información de los pedidos que se hayan enviado usando en plugin se verán afectados por esta acción. IMPORTANTE: Este proceso puede ocasionar la pérdida de algunos datos de las ordenes de envío."
+
+msgid "Enable API logs"
+msgstr "Habilitar Logs de API"
+
+msgid "If you enable this option, we will save all requests and responses to our API. Please only enable this for testing and debugging. We recommend to disable it in live environments."
+msgstr "Si habilitas esta opción, guardamos de todas las solicitudes y respuestas de nuestra API. Por favor solamente habilitala para pruebas y debugging. Recomendamos no habilitarla en ambientes productivos."
+
+msgid "Download API logs"
+msgstr "Descargar logs de la API"
+
+msgid "Delete API logs"
+msgstr "Eliminar logs de API"
+
+msgid "Next day"
+msgstr "Día siguiente"
+
+msgid "Monday, Nov. 6"
+msgstr "Lunes, Nov. 6"
+
+msgid "Visit plugin site"
+msgstr "Visitar la web del plugin"
+
+msgid "By {#brand_name#}"
+msgstr "Por {#brand_name#}"
+
+msgid "Zone name"
+msgstr "Nombre de zona"
+
+msgid "This is the name of the excluded zone. It is only used internally for your reference."
+msgstr "Esto es el nombre de la zona. Solamente se usa internamente para tu referencia."
+
+msgid "Zone regions"
+msgstr "Regiones de la zona"
+
+msgid "These are the regions inside this zone. If a delivery address of an order is inside those regions, the rating of the plugin will be skipped automatically."
+msgstr "Estos son las regiones y códigos postales de la zona. Si la dirección de entrega de un pedido está en una de estas zonas, se omita la cotización con la extensión."
+
+msgid "Select regions within this zone"
+msgstr "Selecciona regiones de la zona"
+
+msgid "Enter 1 postal code per line"
+msgstr "Ingresa un código postal por línea"
+
+msgid "Postcodes containing wildcards (e.g. CB23*) or fully numeric ranges (e.g. <code>90210...99000</code>) are also supported. The excluded zones work in a very similar way as the WooCommerce own shipping zones. You can read the official WooCommerce <a href=%s target=_blank>documentation</a>) for more information."
+msgstr "Puedes poner códigos postales que contienen comodínes (p.e. 231*) o que son rangos (p.e. <code>11500...11900</code>). Las zonas excluidas funcionan de una manera muy parecidas a las zonas de envío de WooCommerce mismo. Puedes leer la documentación oficial <a href=%s target=_blank>aquí</a>) para más información."
+
+msgid "Add Zone"
+msgstr "Agregar zona"
+
+msgid "Excluded Zones"
+msgstr "Zonas excluidas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Regions"
+msgstr "Regiones"
+
+msgid "Additional account configurations"
+msgstr "Configuraciones adicionales de la cuenta"
+
+msgid "We recommend to configure additional settings for your account:<ul class='ul-info'>  <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Free shipping</a></li>   <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#configuration target=_blank>Shipment insurance</a></li>   <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Store pickup</a></li>  <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#configuration target=_blank>Standard packaging dimensions</a></li>    <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Shipment parcel quantities (One vs many)</a></li></ul>"
+msgstr "Recomendamos configurar ajustes adicionales para tu cuenta:<ul class='ul-info'>  <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Envíos gratuitos</a></li>   <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#configuration target=_blank>Seguro de envíos</a></li>   <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Recolección en tienda</a></li>  <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#configuration target=_blank> Dimensiones estandares de empaques</a></li>    <li><a href=https://app.enviaya.com.mx/accounts/edit/{#account_id#}#api_configuration target=_blank>Cantidad de paquetes por envío (Uno o muchos)</a></li></ul>"
+
+msgid "Store Pickup"
+msgstr "Recolección en tienda"
+
+msgid "Additional options"
+msgstr "Opciones adicionales"
+
+msgid "The {#brand_name#} plugin only works with WooCommerce, but the WooCommerce plugin is disabled at the moment."
+msgstr "La extensión de {#brand_name#} solamente funciona con WooCommerce, pero la extensión de WooCommerce está deshabilitada."
+
+msgid "There was a technical error on our server. Please try again later."
+msgstr "Hubo un error técnico en nuestro servidor. Por favor intentalo de nuevo más tarde."
+
+msgid "Excluded zone"
+msgstr "Zone Excluida"
+
+msgid "Shipment subsidies"
+msgstr "Subsidios de envío"
+
+msgid "Shipment service prices can be subsidiezed by you if needed. This way, more economic shipping prices will be available to your customers, depending on their minimum order amount."
+msgstr "Puedes subsidiar los costos de envío si gustas. De esta manera, tus clientes pueden aceder a precios de envío más económicos, dependiendo del monto de su pedido."
+
+msgid "You can configure subsidies for your account here:"
+msgstr "Puedes configurar subsidios para tu cuenta aquí:"
+
+msgid "We strongly recommend to enable this option. If no shipment rates can be obtained on the shopping cart and checkout page (e.g. because there is no coverage on the Recipient or because of technical problems), our plugin can show a standard and an express backup service with a fixed cost. By enabling this option you can make sure that your customers can always select a shipping service and finish their purchase. This way you will never lose sales due to missing shipping rates."
+msgstr "Te recomendamos habilitar esta opción. Si no es posible obtener tarifas de envío en el carrito de compras y en el checkout (por ejemplo, porque no hay cobertura en el destino o por problemas técnicos), nuestra extensión puede mostrar un servicio express y un económico con costo fijo como respaldo. Al habilitar esta opción puedes asegurar que tus clientes siempre puedan seleccionar un servicio de envío y terminar su cumpra. De esta manera nunca perderas ventas. "
+
+msgid "Please note: These css classes are only applied work if the option 'Advanced shipping services design' is enabled."
+msgstr "Aviso: Estas clases css solamente se asignan si la opción 'Diseño avanzado de servicios de envío' está habilitada."
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "Premium Support"
+msgstr "Soporte Premium"
+
+msgid "Access"
+msgstr "Acceso"
+
+msgid "Technical"
+msgstr "Técnica"
+
+msgid "API keys"
+msgstr "Claves API"
+
+msgid "Excluded zones here"
+msgstr "Zonas excluidas"
+
+msgid "You can define excluded zones to disable the rating of the plugin on the cart and checkout page. This can be useful if you want to define custom shipping options for certain areas. (for example by defining WooCommerce shipping zones for these areas)"
+msgstr "Puedes definir zonas excluidas para deshabilitar la cotización de la extension en las páginas del carrito y de la caja. Esto puede ser útil en caso que deseas definir opciones de envío customizados para áreas especificas. (p.e. definiendo zonas de envío de WooCommerce para estos áreas)"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "API Key"
+msgstr "Clave API"
+
+msgid "You can either find your API Key in your user profile or click on the link to obtain your API"
+msgstr "Puedes obtener tu clave API en el panel de administración o dando clic en el link"
+
+msgid "Test API Key"
+msgstr "Clave API de prueba"
+
+msgid "Use enviaya"
+msgstr ""
+
+msgid "Ship to Applicable Countries"
+msgstr "Países aplicables para envío"
+
+msgid "All Countries"
+msgstr "Todos los países"
+
+msgid "Specific Countries"
+msgstr "Países específicos"
+
+msgid "Service Timeout"
+msgstr "Max. Tiempo de respuesta servidor (Timeout)"
+
+msgid "This value defines the maximum time you want to wait to get a response from our API. After this time, an error is thrown, or the contingency shipping services are shown during the user checkout. Our suggestion is to put 30 seconds."
+msgstr "Ayuda: Se refiere al tiempo de espera para obtener una respuesta por parte del sistema. Nuestra sugerencia es que ingreses 30"
+
+msgid "Enable Test Mode"
+msgstr "Habilitar modo de prueba"
+
+msgid "No valid shipments will be created or charged in test mode."
+msgstr "No se generan ni cobran envíos válidos en el modo de prueba."
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "Billing Account"
+msgstr "Cuenta de facturación"
+
+msgid "Rating"
+msgstr "Cotizador"
+
+msgid "Enable Rating"
+msgstr "Habilitar cotizador"
+
+msgid "This is the title shown to the store customers on top of the list of the shipping services during checkout. You can leave it blank if you don't want to show any title."
+msgstr "Este título se muestra sobre las opciones de cotización que verá el cliente en tu tienda. Si lo prefieres, puedes dejar este campo en blanco."
+
+msgid "We recommend to remove all shipping zones and to disable any other shipping rating plugin you might be using if you enable rating. Otherwise your customers will see the shipping zones and other plugins rates as well as the ones offered by our system."
+msgstr "Te recomendamos eliminar todas las Zonas de Envío (Shipping Zones) y deshabiltar cualquier otro cotizador de envíos que tengas instalado en la tienda para que la extensión de cotizaciones funcione correctamente, pues de lo contrario, tus clientes verán las opciones de envío que ofrece nuestro cotizador, además de las que tengas configuradas en tu tienda."
+
+msgid "Free Shipping"
+msgstr "Envíos gratuitos"
+
+msgid "Price display"
+msgstr "Visualización de precio"
+
+msgid "Show price as 0.00"
+msgstr "Mostrar precio como 0.00"
+
+msgid "Do not show price"
+msgstr "No mostrar precio"
+
+msgid "Contingency Shipping Services"
+msgstr "Servicios de contingencia"
+
+msgid "Enable Contingency Shipping Services"
+msgstr "Habilitar envíos de contingencia"
+
+msgid "Standard Flat Rate"
+msgstr "Tarifa fija para servicio estándar"
+
+msgid "This a backup/ fall back option. If no shipment rates can be obtained (e.g. because there is no coverage on the Recipient or because of technical problems) you can display Standard Shipping Service with a fixed rate to your customer. If you put any value into this field, your customers will see this shipping service and rate during checkout. If you leave it empty, no contingency shipping service will be displayed."
+msgstr "Esta es una opción de respaldo. Si al cotizar en la tienda, el sistema no arroja resultados (ya sea porque no existe cobertura en el destino o por cualquier problema técnico) puedes mostrar este servicio estándar una tarifa plana para a tus clientes. Si pones cualquier valor en este campo, tus clientes verán este servicio y  costo de envío al cotizar. Si lo dejas vacío, no se ofrecerán servicios de envío de contingencia cuando el cotizador no esté disponible."
+
+msgid "Express Flat Rate"
+msgstr "Tarifa fija para servicio exprés"
+
+msgid "This a backup/ fall back option. If no shipment rates can be obtained (e.g. because there is no coverage on the Recipient or because of technical problems) you can display Express Shipping Service with a fixed rate to your customer. If you put any value into this field, your customers will see this shipping service and rate during checkout. If you leave it empty, no contingency shipping service will be displayed."
+msgstr "Esta es una opción de respaldo. Si al cotizar en la tienda, el sistema no arroja resultados (ya sea porque no existe cobertura en el destino o por cualquier problema técnico) puedes mostrar este servicio estándar una tarifa plana para a tus clientes. Si pones cualquier valor en este campo, tus clientes verán este servicio y  costo de envío al cotizar. Si lo dejas vacío, no se ofrecerán servicios de envío de contingencia cuando el cotizador no esté disponible."
+
+msgid "<b>Hint:</b> This option might slow your store down. Everytime a user adds an article to the shipping cart, our rating API will be called which can cause a delay. Please test this option carefully."
+msgstr "<b>Sugerencia:</b> Esta opción tal vez realentiza tu tienda. Cada que un usuario agregue un artículo al carrito, se llamará a nuestra API lo que puede causar un retraso. Por favor prueba esta opción con cuidado."
+
+msgid "3 line"
+msgstr "3 línea"
+
+msgid "Delivery time"
+msgstr "Tiempo de entrega"
+
+msgid "This defines if and how the estimated delivery date will be shown on the cart and checkout page."
+msgstr "Esta opción establece de qué forma se muestra el tiempo estimado de entrega en las páginas del carrito y de la caja."
+
+msgid "Show estimated delivery date"
+msgstr "Mostrar fecha de entrega estimada"
+
+msgid "Show transit time (days)"
+msgstr "Mostrar tiempo de tránsito (días)"
+
+msgid "Do not show delivery time"
+msgstr "No mostrar tiempo de entrega"
+
+msgid "day"
+msgstr "día"
+
+msgid "days"
+msgstr "días"
+
+msgid "hour"
+msgstr "hora"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "No shipments"
+msgstr "No envío"
+
+msgid "Please enter a valid API key to retrieve your billing accounts."
+msgstr "Por, favor ingresa una clave API válido para recibir tus cuentas de facturación."
+
+msgid "Enable currency support"
+msgstr "Habilitar soporte de monedas"
+
+msgid "Important hint: Some currency converter plugins convert the shipping costs to the selected currency automatically. If you use any of these plugins, turning on this option can lead to double conversions and wrong prices. If you have any of these plugins installed (e.g. the Currency Converter plugin), we recommend to disable the “Enable currency support” option of our plugin."
+msgstr ""
+
+msgid "Default currency"
+msgstr "Moneda por defecto"
+
+msgid "At least one of the articles in the cart does not have any dimensions. Please either add dimensions to each article in your shop or define a standard packaging. If you define a standard packaging for your account, we will use its dimensions and you do not need to define dimensions for each article of your store."
+msgstr "Al menos un artículo en tu carrito tiene dimensiones indefinidas. Por favor define las dimensiones correspondientes a cada artículo de tu tienda o configura un empaque por defecto. Si configuras un empaque por defecto, vamos a utilizar las dimensiones de este empaque y no es necesario ingresar dimensiones para cada artículo de tu tienda."
+
+msgid "At least one of the articles in the shopping cart do not have any weight configured. Unfortunately, shipping rates depend on the article weights and we cannot determine any rates without it. Please make sure you have entered a weight for each article in your store."
+msgstr "Al menos un artículo en el carrito no tiene peso configurado. Desafortunadamente, las tarifas calculadas dependen del peso de los artículos y no podemos determinar ninguna tarifa sin el. Por favor asegura ingresar el peso para cada artículo en tu tienda."
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Enviaya Shipping"
+msgstr "Enviaya!"
+
+msgid "Please enter your API key to load your account(s)."
+msgstr "Por favor ingresa tu API Key para poder ligar tu cuenta"
+
+msgid "Get your API Key"
+msgstr "Obtener tu clave API"
+
+msgid "Please enter your API key to load your packaging(s)."
+msgstr "Por favor, introduzca su clave API para recuperar su (s) empaque (s)."
+
+msgid "Please enter your API key to load your sender address(s)."
+msgstr "Por favor, introduzca su clave API para recuperar su(s) dirección(es) de origen."
+
+msgid "Yes / No"
+msgstr "Sí / No"
+
+msgid "Please select an Account"
+msgstr "Por favor selecciona una cuenta"
+
+msgid "Please select an sender address"
+msgstr "Por favor seleccione una dirección de origen"
+
+msgid "If you manage more than one billing account, you can specify which account you want to bill the store's shipments to."
+msgstr "Si administras más de una cuenta de facturación, puedes definir a cúal de tus cuentas deseas cobrar los envíos de tu tienda."
+
+msgid "Enable Estimated Shipping in Cart?"
+msgstr "Enable Estimated Shipping in Cart?"
+
+msgid "If you enable this option, your customers can see the shipping services, cost and est. delivery dates even before checkout when the open their shopping cart. (If it is disabled, we will only show this information on the checkout page)"
+msgstr ""
+
+msgid "Express"
+msgstr "Exprés"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "VAT"
+msgstr "IVA"
+
+msgid "Carrier name"
+msgstr "Nombre de la paquetería"
+
+msgid "Don't show carrier name"
+msgstr "No mostrar nombre de la paquetería"
+
+msgid "Show carrier name"
+msgstr "Mostrar nombre de la paquetería"
+
+msgid "This option defines whether the carrier name is included in the shipping service names displayed on the cart and checkout page."
+msgstr "Esta opción define si se muestra el nombre de las paqueterías como parte del nombre del servicio de envío en las páginas del carrito y de la caja."
+
+msgid "Are you sure you want to delete the API logs?"
+msgstr "¿Estás seguro que deseas eliminar los logs de al API?"
+
+msgid "The API logs have been deleted."
+msgstr "Los logs de la API fueron eliminados."
+
+msgid "no_zone_data"
+msgstr "no_zone_data"
+
+msgid "PrestaShop version"
+msgstr "PrestaShop version"
+
+msgid "Carrier tracking number:"
+msgstr ""
+
+msgid "Enviaya shipment number:"
+msgstr ""
+
+msgid "Pickup date:"
+msgstr ""
+
+msgid "Delivery date:"
+msgstr ""
+
+msgid "Shipment status:"
+msgstr ""
+
+msgid "Print order"
+msgstr "Print order"
+
+msgid "View invoice"
+msgstr "View invoice"
+
+msgid "No invoice"
+msgstr "No invoice"
+
+msgid "View delivery slip"
+msgstr "View delivery slip"
+
+msgid "No delivery slip"
+msgstr "No delivery slip"
+
+msgid "Return products"
+msgstr "Return products"
+
+msgid "Standard refund"
+msgstr "Standard refund"
+
+msgid "Cancel products"
+msgstr "Cancel products"
+
+msgid "Partial refund"
+msgstr "Partial refund"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Resend this email to the customer"
+msgstr "Resend this email to the customer"
+
+msgid "Resend email"
+msgstr "Resend email"
+
+msgid "Update status"
+msgstr "Update status"
+
+msgid "Merchandise Returns"
+msgstr "Merchandise Returns"
+
+msgid "Recycled packaging"
+msgstr "Recycled packaging"
+
+msgid "Gift wrapping"
+msgstr "Gift wrapping"
+
+msgid "No merchandise returned yet"
+msgstr "No merchandise returned yet"
+
+msgid "paid instead of"
+msgstr "paid instead of"
+
+msgid "This warning also concerns order "
+msgstr "This warning also concerns order "
+
+msgid "This warning also concerns the next orders:"
+msgstr "This warning also concerns the next orders:"
+
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+msgid "Payment method"
+msgstr "Payment method"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Card Number"
+msgstr "Card Number"
+
+msgid "Card Brand"
+msgstr "Card Brand"
+
+msgid "Not defined"
+msgstr "Not defined"
+
+msgid "Card Expiration"
+msgstr "Card Expiration"
+
+msgid "Card Holder"
+msgstr "Card Holder"
+
+msgid "No payment methods are available"
+msgstr "No payment methods are available"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Change currency"
+msgstr "Change currency"
+
+msgid "Do not forget to update your exchange rate before making this change."
+msgstr "Do not forget to update your exchange rate before making this change."
+
+msgid "Change"
+msgstr "Change"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "This order has been placed by a guest."
+msgstr "This order has been placed by a guest."
+
+msgid "Transform a guest into a customer"
+msgstr "Transform a guest into a customer"
+
+msgid "This feature will generate a random password and send an email to the customer."
+msgstr "This feature will generate a random password and send an email to the customer."
+
+msgid "A registered customer account has already claimed this email address"
+msgstr "A registered customer account has already claimed this email address"
+
+msgid "Account registered"
+msgstr "Account registered"
+
+msgid "Valid orders placed"
+msgstr "Valid orders placed"
+
+msgid "Total spent since registration"
+msgstr "Total spent since registration"
+
+msgid "SIRET"
+msgstr "SIRET"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Private"
+msgstr "Private"
+
+msgid "Do you want to send this message to the customer?"
+msgstr "Do you want to send this message to the customer?"
+
+msgid "Choose a standard message"
+msgstr "Choose a standard message"
+
+msgid "Do you want to overwrite your existing message?"
+msgstr "Do you want to overwrite your existing message?"
+
+msgid "Configure predefined messages"
+msgstr "Configure predefined messages"
+
+msgid "Display to customer?"
+msgstr "Display to customer?"
+
+msgid "Send message"
+msgstr "Send message"
+
+msgid "Show all messages"
+msgstr "Show all messages"
+
+msgid "Quantity to cancel is greater than quantity available."
+msgstr "Quantity to cancel is greater than quantity available."
+
+msgid "Tax excluded"
+msgstr "Tax excluded"
+
+msgid "Tax included"
+msgstr "Tax included"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Price per unit"
+msgstr "Price per unit"
+
+msgid "Qty"
+msgstr "Qty"
+
+msgid "Warehouse"
+msgstr "Warehouse"
+
+msgid "Refunded"
+msgstr "Refunded"
+
+msgid "Returned"
+msgstr "Returned"
+
+msgid "Available quantity"
+msgstr "Available quantity"
+
+msgid "Return"
+msgstr "Return"
+
+msgid "Refund"
+msgstr "Refund"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Add a product"
+msgstr "Add a product"
+
+msgid "Add a new discount"
+msgstr "Add a new discount"
+
+msgid "Merchandise returns are disabled"
+msgstr "Merchandise returns are disabled"
+
+msgid "Discount name"
+msgstr "Discount name"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Delete voucher"
+msgstr "Delete voucher"
+
+msgid "Discounts"
+msgstr "Discounts"
+
+msgid "Wrapping"
+msgstr "Wrapping"
+
+msgid "Re-stock products"
+msgstr "Re-stock products"
+
+msgid "Generate a credit slip"
+msgstr "Generate a credit slip"
+
+msgid "Generate a voucher"
+msgstr "Generate a voucher"
+
+msgid "Repay shipping costs"
+msgstr "Repay shipping costs"
+
+msgid "This order has been partially paid by voucher. Choose the amount you want to refund:"
+msgstr "This order has been partially paid by voucher. Choose the amount you want to refund:"
+
+msgid "Include amount of initial voucher: "
+msgstr "Include amount of initial voucher: "
+
+msgid "Exclude amount of initial voucher: "
+msgstr "Exclude amount of initial voucher: "
+
+msgid "Amount of your choice: "
+msgstr "Amount of your choice: "
+
+msgid "Product(s) price: "
+msgstr "Product(s) price: "
+
+msgid "Product(s) price, excluding amount of initial voucher: "
+msgstr "Product(s) price, excluding amount of initial voucher: "
+
+msgid "Sources"
+msgstr "Sources"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Linked orders"
+msgstr "Linked orders"
+
+msgid "Order no. "
+msgstr "Order no. "
+
+msgid "View order"
+msgstr "View order"
+
+msgid "Choose Time"
+msgstr "Choose Time"
+
+msgid "Are you sure you want to add this quantity?"
+msgstr "Are you sure you want to add this quantity?"
+
+msgid "Are you sure you want to create a new invoice?"
+msgstr "Are you sure you want to create a new invoice?"
+
+msgid "Error: No product has been selected"
+msgstr "Error: No product has been selected"
+
+msgid "Error: Quantity of products must be set"
+msgstr "Error: Quantity of products must be set"
+
+msgid "Error: Product price must be set"
+msgstr "Error: Product price must be set"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "Error. You cannot refund a negative amount."
+msgstr "Error. You cannot refund a negative amount."
+
+msgid "Private note"
+msgstr "Private note"
+
+msgid "Invoice address"
+msgstr "Invoice address"
+
+msgid "View full details..."
+msgstr "View full details..."
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Now"
+msgstr "Now"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "tax excl."
+msgstr "tax excl."
+
+msgid "tax incl."
+msgstr "tax incl."
+
+msgid "Existing"
+msgstr "Existing"
+
+msgid "Create a new invoice"
+msgstr "Create a new invoice"
+
+msgid "New invoice information"
+msgstr "New invoice information"
+
+msgid "Shipping Costs"
+msgstr "Shipping Costs"
+
+msgid "If you don't select 'Free shipping,' the normal shipping costs will be applied."
+msgstr "If you don't select 'Free shipping,' the normal shipping costs will be applied."
+
+msgid "Product successfully added to your shopping cart"
+msgstr "Product successfully added to your shopping cart"
+
+msgid "Quantity:"
+msgstr "Quantity:"
+
+msgid "There are %products_count% items in your cart."
+msgstr "There are %products_count% items in your cart."
+
+msgid "There is %product_count% item in your cart."
+msgstr "There is %product_count% item in your cart."
+
+msgid "Total products:"
+msgstr "Total products:"
+
+msgid "Total shipping:"
+msgstr "Total shipping:"
+
+msgid "Continue shopping"
+msgstr "Continue shopping"
+
+msgid "Proceed to checkout"
+msgstr "Proceed to checkout"
+
+msgid "show details"
+msgstr "show details"
+
+msgid "Shipping cost"
+msgstr "Shipping cost"
+
+msgid "Tracking number"
+msgstr "Tracking number"
+
+msgid "Edit shipping details"
+msgstr "Edit shipping details"
+
+msgid "Please note that carrier change will not recalculate your shipping costs, if you want to change this please visit Shop Parameters > Order Settings"
+msgstr "Please note that carrier change will not recalculate your shipping costs, if you want to change this please visit Shop Parameters > Order Settings"
+
+msgid "Show carts and orders for this customer."
+msgstr "Show carts and orders for this customer."
+
+msgid "Hide carts and orders for this customer."
+msgstr "Hide carts and orders for this customer."
+
+msgid "No voucher was found"
+msgstr "No voucher was found"
+
+msgid "Choose"
+msgstr "Choose"
+
+msgid "No customers found"
+msgstr "No customers found"
+
+msgid "View this cart"
+msgstr "View this cart"
+
+msgid "Use this cart"
+msgstr "Use this cart"
+
+msgid "View this order"
+msgstr "View this order"
+
+msgid "Duplicate this order"
+msgstr "Duplicate this order"
+
+msgid "No carrier can be applied to this order"
+msgstr "No carrier can be applied to this order"
+
+msgid "Combination"
+msgstr "Combination"
+
+msgid "Customization"
+msgstr "Customization"
+
+msgid "No products found"
+msgstr "No products found"
+
+msgid "Gift"
+msgstr "Gift"
+
+msgid "You must add at least one address to process the order."
+msgstr "You must add at least one address to process the order."
+
+msgid "Search for an existing customer by typing the first letters of his/her name."
+msgstr "Search for an existing customer by typing the first letters of his/her name."
+
+msgid "Search for a customer"
+msgstr "Search for a customer"
+
+msgid "Or"
+msgstr "Or"
+
+msgid "Add new customer"
+msgstr "Add new customer"
+
+msgid "Carts"
+msgstr "Carts"
+
+msgid "Orders"
+msgstr "Orders"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Total paid"
+msgstr "Total paid"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "Cart"
+msgstr "Cart"
+
+msgid "Search for an existing product by typing the first letters of its name."
+msgstr "Search for an existing product by typing the first letters of its name."
+
+msgid "Search for a product"
+msgstr "Search for a product"
+
+msgid "In stock"
+msgstr "In stock"
+
+msgid "Add to cart"
+msgstr "Add to cart"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Reference"
+msgstr "Reference"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "The prices are without taxes."
+msgstr "The prices are without taxes."
+
+msgid "Currency"
+msgstr "Currency"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Vouchers"
+msgstr "Vouchers"
+
+msgid "Search for a voucher"
+msgstr "Search for a voucher"
+
+msgid "Add new voucher"
+msgstr "Add new voucher"
+
+msgid "Addresses"
+msgstr "Addresses"
+
+msgid "Delivery"
+msgstr "Delivery"
+
+msgid "Add a new address"
+msgstr "Add a new address"
+
+msgid "Delivery option"
+msgstr "Delivery option"
+
+msgid "Shipping price (Tax incl.)"
+msgstr "Shipping price (Tax incl.)"
+
+msgid "Gift message"
+msgstr "Gift message"
+
+msgid "Summary"
+msgstr "Summary"
+
+msgid "Total vouchers (Tax excl.)"
+msgstr "Total vouchers (Tax excl.)"
+
+msgid "Total taxes"
+msgstr "Total taxes"
+
+msgid "Total (Tax excl.)"
+msgstr "Total (Tax excl.)"
+
+msgid "Total (Tax incl.)"
+msgstr "Total (Tax incl.)"
+
+msgid "Order message"
+msgstr "Order message"
+
+msgid "Send an email to the customer with the link to process the payment."
+msgstr "Send an email to the customer with the link to process the payment."
+
+msgid "Go on payment page to process the payment."
+msgstr "Go on payment page to process the payment."
+
+msgid "Back office order"
+msgstr "Back office order"
+
+msgid "Order status"
+msgstr "Order status"
+
+msgid "Create the order"
+msgstr "Create the order"
+
+msgid "If you would like to add a comment about your order, please write it in the field below."
+msgstr "If you would like to add a comment about your order, please write it in the field below."
+
+msgid "I would like to receive my order in recycled packaging."
+msgstr "I would like to receive my order in recycled packaging."
+
+msgid "If you'd like, you can add a note to the gift:"
+msgstr "If you'd like, you can add a note to the gift:"
+
+msgid "Unfortunately, there are no carriers available for your delivery address."
+msgstr "Unfortunately, there are no carriers available for your delivery address."
+
+msgid "Reference number:"
+msgstr "Reference number:"
+
+msgid "Supplier reference:"
+msgstr "Supplier reference:"
+
+msgid "Package content"
+msgstr "Package content"
+
+msgid "Editing this product line will remove the reduction and base price."
+msgstr "Editing this product line will remove the reduction and base price."
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Refund history"
+msgstr "Refund history"
+
+msgid "Return history"
+msgstr "Return history"
+
+msgid "Package item"
+msgstr "Package item"
+
+msgid "Ref:"
+msgstr "Ref:"
+
+msgid "Ref Supplier:"
+msgstr "Ref Supplier:"
+
+msgid "Order details"
+msgstr "Order details"
+
+msgid "Reorder"
+msgstr "Reorder"
+
+msgid "Download your invoice as a PDF file."
+msgstr "Download your invoice as a PDF file."
+
+msgid "You have requested gift wrapping for this order."
+msgstr "You have requested gift wrapping for this order."
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Follow your order's status step-by-step"
+msgstr "Follow your order's status step-by-step"
+
+msgid "Click the following link to track the delivery of your order"
+msgstr "Click the following link to track the delivery of your order"
+
+msgid "Delivery address %alias%"
+msgstr "Delivery address %alias%"
+
+msgid "Invoice address %alias%"
+msgstr "Invoice address %alias%"
+
+msgid "Checkpoints"
+msgstr "Checkpoints"
+
+msgid "Obtain shipment services"
+msgstr "Obtain shipment services"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Percent"
+msgstr "Percent"
+
+msgid "This value must include taxes."
+msgstr "This value must include taxes."
+
+msgid "Apply on all invoices"
+msgstr "Apply on all invoices"
+
+msgid "If you chooses to create this discount for all invoices, only one discount will be created per order invoice."
+msgstr "If you chooses to create this discount for all invoices, only one discount will be created per order invoice."
+
+msgid "Customized"
+msgstr "Customized"
+
+msgid "Picture #"
+msgstr "Picture #"
+
+msgid "Text #%s"
+msgstr "Text #%s"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Delivery slip"
+msgstr "Delivery slip"
+
+msgid "Credit Slip"
+msgstr "Credit Slip"
+
+msgid "See the document"
+msgstr "See the document"
+
+msgid "not paid"
+msgstr "not paid"
+
+msgid "overpaid"
+msgstr "overpaid"
+
+msgid "Set payment form"
+msgstr "Set payment form"
+
+msgid "Add note"
+msgstr "Add note"
+
+msgid "Edit note"
+msgstr "Edit note"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "There is no available document"
+msgstr "There is no available document"
+
+msgid "Generate invoice"
+msgstr "Generate invoice"
+
+msgid "Enter payment"
+msgstr "Enter payment"
+
+msgid "Choose an order status"
+msgstr "Choose an order status"
+
+msgid "Update Order Status"
+msgstr "Update Order Status"
+
+msgid "Carrier"
+msgstr "Carrier"
+
+msgid "Weight"
+msgstr "Weight"
+
+msgid "Select standard packaging"
+msgstr "Select standard packaging"
+
+msgid "Default"
+msgstr ""
+
+msgid "Magento version:"
+msgstr "Magento version:"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Sort Order"
+msgstr "Sort Order"
+
+msgid "Opencart version"
+msgstr "Opencart version"
+
+msgid "Success: You have modified Envia Ya shipping!"
+msgstr "Success: You have modified Envia Ya shipping!"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Congratulations, you are ready to ship."
+msgstr "Felicitaciones, estás listo para enviar."
+
+msgid "Tracking"
+msgstr "Tracking"
+
+msgid "Update shipment"
+msgstr "Update shipment"
+
+msgid "See logs"
+msgstr "Ver logs"
+
+msgid "The {#carrier#} ({#service_name#}) shipment with the tracking number {#carrier_tracking_number#} was created successfully. You can download the label <a href='{#label_share_link#}'>here.</a>."
+msgstr "El envío de {#carrier#} ({#service_name#}) con el número de rastreo {#carrier_tracking_number#} fue creado exitosamente, Puedes descargar la etiqueta <a href='{#label_share_link#}'>aquí.</a>"
+
+msgid "The shipment was not booked automatically, because it had already been booked before with the tracking number {#carrier_tracking_number#} ({#carrier#} - {#service_name#})."
+msgstr "El envío no fue creado automáticamente, porque la etiqueta ya fue generada anteriormente con el número de rastreo {#carrier_tracking_number#} ({#carrier#} - {#service_name#})."
+
+msgid "The shipment was not booked automatically, as the shipment date is today. Please book it manually whenever the order is ready to be shipped."
+msgstr "El envío no puede ser creado automáticamente, porque la fecha de envio es hoy. Por favor genera la etiqueta manualmente cuando la orden este lista para ser enviada."
+
+msgid "The shipment cannot be booked automatically, because no shipment service was selected for this order yet."
+msgstr "El envío no puede ser creado automáticamente, porque aún no hay un servicio de envío seleccionado para esta orden."
+
+msgid "There was an error during the automatic shipment booking. Please try to book the shipment manually."
+msgstr "Hubo un error durante la creación de la etiqueta de envío. Por favor genera la etiqueta de envío manualmente."
+
+msgid "Standard shipping"
+msgstr "Envío Estándar"
+
+msgid "Express shipping"
+msgstr "Envío Express"
+
+msgid "Standard shipping service name"
+msgstr "Nombre del servició de envío estándar"
+
+msgid "Express shipping service name"
+msgstr "Nombre del servició de envío express"
+
+msgid "Book shipments automatically"
+msgstr "Reservar envíos automáticamente"
+
+msgid "When this option is enabled, shipments will be booked automatically when an order is paid. Please note: Instant , same day shipment providers are never booked automatically."
+msgstr "Si está opción está habilitada, los envíos se reservan de forma automática cuando un pedido está pagado. Nota: Proveedores de envíos instantaneous con entrega en el mismo día, nunca se reservan automáticamente."
+
+msgid "The Pro version of Dokan is required"
+msgstr "Se requiere la versión Pro de Dokan "
+
+msgid "Shipment creation in process"
+msgstr "Creación de envío en proceso"
+
+msgid "Shipments for {#count_orders#} orders are being created."
+msgstr "Se están generando envios para {#count_orders#} ordenes."
+
+msgid "Bulk shipments"
+msgstr "Envios masivos"
+
+msgid "Which shipment service do you want to use?"
+msgstr "¿Cúal servicio de envío quieres utilizar?"
+
+msgid "Use the shipment service selected by the customer during checkout"
+msgstr "Usar el servicio seleccionado por el cliente en el checkout"
+
+msgid "Select a different service"
+msgstr "Seleccionar otro servicio"
+
+msgid "Fallback shipping service"
+msgstr "Servicio de envío alterno"
+
+msgid "Use a fallback shipping service in case the selected service returns a booking error"
+msgstr "Usar un servicio de envío alterno en caso de un error de reserva del servicio principal"
+
+msgid "This option executes a second try to create the shipment with the fallback shipping service selected, in case the shipment could not be created with the principal shipping service (e.g. because of a problem with coverage)."
+msgstr "Esta opción realizara un segundo intento de reserva con el servicio alterno seleccionado en caso de que no se pudo crear el envío con el servicio principal (p.e. por un problema con la cobertura)."
+
+msgid "Service"
+msgstr "Servicio"
+
+msgid "Create shipments"
+msgstr "Crear envíos"
+
+msgid "An powerful plugin to rate multi-carrier shipment services and est. delivery dates during checkout, create shipment labels with one click and track."
+msgstr "Una extensión multi-mensajería muy poderosa para cotizar servicios de envío y sus fechas estimadas de entrega en la caja, crear etiquetas con un solo click y rastrear los envíos."
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Use the store adminstrator's API KEY"
+msgstr "Utilizar las API KEY del administrador de la tienda"
+
+msgid "If you enable this option, the store administrator's API key will be used for shipment rating, booking and tracking."
+msgstr "Si habilitas esta opción, se utilizara la clave API del administrador de la tienda para realizar las cotizaciones, las reservaciones y el rastreo de envíos."
+
+msgid "Assign a separate billing account for each vendor"
+msgstr "Asignar diferente cuenta de facturación por cada vendedor"
+
+msgid "If you enable this option, you can configure separate billing accounts for the shipments of each vendor."
+msgstr "Si habilitas esta opción, podrás configurar distintas cuentas de facturación para los envíos de cada vendedor."
+
+msgid "Configure a vendor’s account"
+msgstr "Configurar cuenta de vendedor"
+
+msgid "Configured accounts"
+msgstr "Konfigurierte Konten"
+
+msgid "There already is a configuration for this account."
+msgstr "Ya existe una configuración para esta cuenta."
+
+msgid "Vendor"
+msgstr "Vendedor"
+
+msgid "Account"
+msgstr "Cuenta"
+
+msgid "there are no vendors"
+msgstr "No existen vendedores"
+
+msgid "there are no billing accounts"
+msgstr "No existen cuentas de facturación"
+
+msgid "Enable automatic API logs deletion"
+msgstr "Habilitar eliminación automática de logs de API"
+
+msgid "Daily"
+msgstr "Diario"
+
+msgid "Once per week"
+msgstr "Una vez por semana"
+
+msgid "Twice per week"
+msgstr "Dos veces por semana"
+
+msgid "Monthly"
+msgstr "Mensualmente"
+
+msgid "API logs deletion interval"
+msgstr "Frecuencia de eliminación de logs de API"
+
+msgid "If you enable this option, the logs stored for calls to the EnvíaYa-API will be automatically deleted on a configurable schedule."
+msgstr "Si habilitas esta opción, los logs que se guardan para llamadas a la API de EnvíaYa se eliminaran de manera automática con una frecuencia configurable."
+
+msgid "The time interval you want the logs to be deleted for."
+msgstr "Frecuencia con la que deseas que se eliminen los logs de API."
+
+msgid "Enable automatic rates cleaner (database)"
+msgstr "Habilitar el limpiador automático de tarifas (base de datos)"
+
+msgid "Clean rates (database)"
+msgstr "Limpiar tarifas (base de datos)"
+
+msgid "Shipping rates for each order are saved in the database. If you enable this option, these rates will be automatically deleted on a configurable schedule."
+msgstr "Se guardan las tarifas de envíos de cada pedido en la base de datos. Si habilitas esta opción, estos registros se eliminarán de manera automática con la frecuencia que selecciones."
+
+msgid "Rates cleaning interval"
+msgstr "Frecuencia de limpieza de tarifas"
+
+msgid "The time interval you want the rates to be deleted for."
+msgstr "Frecuencia con la que deseas que se eliminen las cotizaciones."
+
+msgid "Full Name"
+msgstr "Nombre Completo"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+msgid "Address Line 1"
+msgstr "Dirección 1"
+
+msgid "Address Line 2"
+msgstr "Dirección 2"
+
+msgid "Postal code"
+msgstr "Código postal"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Contact information"
+msgstr "Información de contacto"
+
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+msgid "Delivery with {#brand_name#}"
+msgstr "Envío con {#brand_name#}"
+
+msgid "No shipping data available."
+msgstr "Sin datos de envío disponibles."
+
+msgid "Length"
+msgstr "Largo"
+
+msgid "Width"
+msgstr "Ancho"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Search a direction"
+msgstr "Buscar una dirección"
+
+msgid "Searching…"
+msgstr "Buscando…"
+
+msgid "No results found"
+msgstr "No se encontraron resultados"
+
+msgid "Next Day 11:30 AM"
+msgstr "Día siguiente 11:30"
+
+msgid "One day delivery (11:30 am Delivery)"
+msgstr "Entrega en un día (Entrega 11:30)"
+
+msgid "Contingency shipping service was enabled during checkout. "
+msgstr "Contingency shipping service was enabled during checkout. "
+
+msgid "Shipment services was be obtained successfully during  checkout process."
+msgstr "Los servicios de envío se obtuvieron con éxito durante el proceso de pago."
+
+msgid "Quote"
+msgstr "Cotizar"
+
+msgid "Last update"
+msgstr "Ultima actualización"
+
+msgid "Finish"
+msgstr "Finalizar"
+
+msgid "Make the phone mandatory for your customers! the destination phone is required to book the shipment."
+msgstr "¡Haz que el teléfono sea obligatorio para tus clientes! Se requiere el teléfono de destino para reservar el envío."
+
+msgid "see PrestaShop docs"
+msgstr "ver la documentación de PrestaShop"
+
+msgid "All the checks were successfully performed. You can now start using module."
+msgstr "Todas las validaciones se realizaron con éxito. Ahora puedes comenzar a usar el módulo."
+
+msgid "Please resolve the following errors:"
+msgstr "Resuelva los siguientes errores:"
+
+msgid "PHP cURL extension must be enabled on your server."
+msgstr "La extensión PHP cURL debe estar habilitada en su servidor."
+
+msgid "Your server must run PHP 5.6 or greater."
+msgstr "Su servidor debe ejecutar PHP 5.6 o superior."
+
+msgid "full_address_validation"
+msgstr "full_address_validation"
+
+msgid "full_order_validation"
+msgstr "full_order_validation"
+
+msgid "Get billing accounts"
+msgstr "Obtener cuentas de facturación"
+
+msgid "What is the address of the place from where parcels are going to be shipped?"
+msgstr "¿Cuál es la dirección del lugar desde donde se van a enviar los paquetes?"
+
+msgid "District"
+msgstr "Distrito"
+
+msgid "Neighborhood"
+msgstr "Colonia"
+
+msgid "source_data"
+msgstr "Origen de datos"
+
+msgid "Use WooCommerce store address as origin address"
+msgstr "Usar la dirección de WooCommerce como dirección de origen"
+
+msgid "Use an EnviaYa address as origin address"
+msgstr "Usar una dirección de EnviaYa como dirección de origen"
+
+msgid "The origin direction has changed from EnvíaYa account"
+msgstr "La dirección de origen ha cambiado desde su cuenta de EnvíaYa"
+
+msgid "The origin direction has changed from EnvíaYa account and It is different to origin direction configured on plugin."
+msgstr "La dirección de origen ha cambiado desde la cuenta de EnvíaYa y es diferente a la dirección de origen configurada en el plugin."
+
+msgid "Current origin direction on plugin"
+msgstr "Dirección de origen actual en el plugin"
+
+msgid "Current origin direction on EnvíaYa app"
+msgstr "Dirección de origen actual en la aplicación EnvíaYa"
+
+msgid "Do you want to update the origin direction configured on plugin?"
+msgstr "¿ Deseas actualizar la dirección origen configurada en el plugin ?"
+
+msgid "Yes, update"
+msgstr "Si, actualizar"
+
+msgid "No, no update"
+msgstr "No, no actualizar"
+
+msgid "The dynamic service name is dynamically created based on the transit time. A service which arrives today will be called 'Same Day Delivery', a service which arrives tomorrow '1 Day Delivery' and so on."
+msgstr "El nombre del servicio dinámico se crea en función del tiempo de tránsito. Un servicio que llega hoy se llamará 'Entrega en el mismo día', un servicio que llega mañana 'Entrega de 1 día' y así sucesivamente."
+
+msgid "The carrier service name is the senderal service name used by the carrier."
+msgstr "El nombre del servicio del operador es el nombre del servicio utilizado por el operador."
+
+msgid "Dynamic service name"
+msgstr "Nombre de servicio dinámico"
+
+msgid "Carrier service name"
+msgstr "Nombre del servicio del operador"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "National Saver"
+msgstr "Nacional Económico"
+
+msgid "National Next Day"
+msgstr "Nacional Día Siguiente"
+
+msgid "Saver shipment %s days"
+msgstr "Envío económico %s días"
+
+msgid "Terrestrial"
+msgstr "Terrestre"
+
+msgid "Saver"
+msgstr "Económico"
+
+msgid "%s Days Delivery"
+msgstr "Entrega en %s días"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Dokan integration"
+msgstr "Integración Dokan"
+
+msgid "Provides integration with Dokan Multivendor Marketplace, so vendors can print shipping labels for their orders."
+msgstr "Brinda integración con Dokan Multivendor Marketplace, de modo que los proveedores puedan imprimir etiquetas de envío para sus pedidos."
+
+msgid "API key is required."
+msgstr "Clave API es obligatorio."
+
+msgid "Test API key should be filled."
+msgstr "Clave API de prueba debe ser llenado."
+
+msgid "Access validation errors"
+msgstr "Errores de validación de acceso"
+
+msgid "Billing account is required."
+msgstr "La cuenta de facturación es requerida."
+
+msgid "Advanced settings validation errors"
+msgstr "Errores de validación de configuración avanzada"
+
+msgid "Dokan plugin is required"
+msgstr "El plugin de Dokan es requerido"
+
+msgid "WCVendors plugin is required"
+msgstr "El plugin de WCVendors es requerido"
+
+msgid "WCVendors integration"
+msgstr "Integración WCVendors"
+
+msgid "Enable WCVendors integration"
+msgstr "Habilitar integración WCVendors"
+
+msgid "Provides integration with WC Vendors Marketplace, so vendors can print shipping labels for their orders."
+msgstr "Brinda integración con WCVendors para que los proveedores puedan cotizar, rastrear e imprimir etiquetas de envío para sus pedidos."
+
+msgid "Important"
+msgstr "Importante"
+
+msgid "An subsidy of %s was applied to shipping total amount."
+msgstr "Se aplicó un subsidio de %s al monto total del envío."
+
+msgid "If you want to offer free shipping to your customers, you can enable here: <a href=%s>Shops & API</a>"
+msgstr "Si desea ofrecer envío gratuito a sus clientes, puede activarlo aquí: <a href=%s>Tiendas y API</a>"
+
+msgid "Shipping Insurance"
+msgstr "Seguro de envío"
+
+msgid "Standard packaging dimensions"
+msgstr "Dimensiones estándar de empaques"
+
+msgid "Shipment parcel quantities (One vs many)"
+msgstr "Cantidad de paquetes por envío (Uno o muchos)"
+
+msgid "Shipping Zones"
+msgstr "Zonas de envío"
+
+msgid "If this option is enabled, then live shipping rates will not be displayed until you will add plugin to the relevant shipping zones. Please note that WooCommerce does not support overlapping shipping zones."
+msgstr "Si esta opción está habilitada, las tarifas de envío no se mostrarán hasta que agregue el plugin a las zonas de envío de su preferencia. Tenga en cuenta que WooCommerce no admite la superposición de zonas de envío."
+
+msgid "Control availability of this shipping method with Shipping Zones."
+msgstr "Controla la disponibilidad de este método de envío con las Zonas de envío."
+
+msgid "Enable caching of API responses"
+msgstr "Habilitar el almacenamiento en caché de las respuestas de la API"
+
+msgid "Caching improves performance and helps to reduce API usage by preventing duplicate requests to the service. You can try to disable it for debug purposes."
+msgstr "El almacenamiento en caché mejora el rendimiento y ayuda a reducir el uso de la API al evitar multiples solicitudes al servicio. Puede intentar deshabilitarlo para fines de pruebas."
+
+msgid "Cache Expiration (sec)"
+msgstr "Caducidad de caché (segundos)"
+
+msgid "Found rates, addresses and billing accounts will cached for a given amount of seconds and help to reduce number of required API requests. For production we recommend to set this value for at least a few days."
+msgstr "Las tarifas, direcciones y cuentas de facturación encontrados se almacenarán en caché durante una cantidad determinada de segundos y ayudarán a reducir la cantidad de solicitudes API requeridas. En ambiente de producción, recomendamos establecer este valor durante al menos un par días."
+
+msgid "Request Timeout (secs)"
+msgstr "Tiempo de espera de la solicitud (segundos)"
+
+msgid "Defines for how long plugin should wait for a response after API request has been sent."
+msgstr "Define cuánto tiempo debe esperar el plugin para recibir una respuesta después de que se haya enviado la solicitud a la API."
+
+msgid "Display live shipping rates on cart and checkout pages."
+msgstr "Mostrar tarifas de envío en tiempo real en el carrito de compras y en la página de pago."
+
+msgid "Shipment service prices can be subsidiezed by you if needed. This way, more economic shipping prices will be available to your customers, depending on their minimum order amount.<br>You can configure subsidies for your account <a target=_blank href=%s>here</a>."
+msgstr "Los precios de los servicios de envío pueden ser subsidiados si es necesario. De esta forma, tus clientes tendrán precios de envío más económicos, en función de un importe mínimo de compra.<br>Puedes configurar los subsidios para tu cuenta <a target=_blank href=%s>aquí</a>."
+
+msgid "Debug Mode"
+msgstr "modo de depuración"
+
+msgid "Use Cache"
+msgstr "Utilizar caché"
+
+msgid "Log plugin activities"
+msgstr "Registrar las actividades del plugin"
+
+msgid "Log can be found in"
+msgstr "Los registros se puede encontrar en"
+
+msgid "WooCommerce -> Status -> Logs"
+msgstr "WooCommerce -> Estado -> Registros"
+
+msgid "with the name"
+msgstr "con el nombre"
+
+msgid "It can also be found in"
+msgstr "También se puede encontrar en"
+
+msgid "Shipping Address:"
+msgstr "Dirección de Envío:"
+
+msgid "From Address: "
+msgstr "Dirección de origen: "
+
+msgid "Plugin is not added to any Shipping Zone"
+msgstr "El plugin no esta agregado a ninguna zona de envío"
+
+msgid "The following products do not have Length, Width or Height set"
+msgstr "Los siguientes productos no tienen largo, ancho o alto"
+
+msgid "The following products do not have Weight set"
+msgstr "Los siguientes productos no tienen peso"
+
+msgid "Address 1 is required"
+msgstr "Dirección 1 es requerido"
+
+msgid "Zip / Postal Code is required to be able to get shipping rates"
+msgstr "Se requiere código postal para poder obtener las tarifas de envío"
+
+msgid "City is required"
+msgstr "Ciudad es requerido"
+
+msgid "Country is required"
+msgstr "País es requerido"
+
+msgid "Phone is required"
+msgstr "Teléfono es requerido"
+
+msgid "Name or Company should be filled"
+msgstr "Nombre o Empresa es requerido"
+
+msgid "From Address"
+msgstr "Dirección de origen"
+
+msgid "is too short, please set it to 60 or more seconds"
+msgstr "Demasiado corto, configúrelo en 60 o más segundos"
+
+msgid "is disabled, please use it only for debugging purposes"
+msgstr "Deshabilitado, utilícelo solo para fines de pruebas"
+
+msgid "WCVendors plugin is required."
+msgstr "Plugin WCVendors es requerido."
+
+msgid "To Address: "
+msgstr "A la dirección: "
+
+msgid "Parcel weight must be larger than 0"
+msgstr "El peso del paquete debe ser mayor que 0"
+
+msgid "Destination postal code is required"
+msgstr "El código postal de destino es requerido"
+
+msgid "Destination country code is required"
+msgstr "El código de país de destino es requerido"
+
+msgid "Shipping Label Format"
+msgstr "Formato de etiqueta de envío"
+
+msgid "Sandbox / Test API Token"
+msgstr "Clave API de prueba"
+
+msgid "If plugin has suddently stopped returning shipping rates then you will have to email to support@goenviaya.com to re-activate your account."
+msgstr "Si el plugin de repente dejó de devolver tarifas de envío, deberá enviar un correo electrónico a soporte@enviaya.com.mx."
+
+msgid "Please note that new EnvíaYa! accounts require manual verification."
+msgstr "Tenga en cuenta que las cuentas nuevas de EnvíaYa requieren verificación manual."
+
+msgid "is invalid"
+msgstr "Inválido"
+
+msgid "is required for the integration to work"
+msgstr "es necesario para que la integración funcione"
+
+msgid "Test API Token"
+msgstr "Clave API de prueba"
+
+msgid "Live API Token"
+msgstr "Clave API"
+
+msgid "Package"
+msgstr "Paquete"
+
+msgid "EnvíaYa - Shipping for WooCommerce"
+msgstr "EnvíaYa - Envíos para WooCommerce"
+
+msgid "Envia Ya S.A. de C.V"
+msgstr "Envia Ya S.A. de C.V"
+
+msgid "https://enviaya.com.mx/"
+msgstr "https://enviaya.com.mx/"
+
+msgid "success"
+msgstr "éxito"
+
+msgid "EUR"
+msgstr "EUR"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "MXN"
+msgstr "MXN"
+
+msgid "shipment_status_in_creation"
+msgstr "En creación"
+
+msgid "shipment_status_pending_customs_information"
+msgstr "Información aduanera pendiente"
+
+msgid "shipment_status_waiting_for_carrier_confirmation"
+msgstr "En espera de confirmación del transportista"
+
+msgid "shipment_status_shipment_created"
+msgstr "Envío creado"
+
+msgid "shipment_status_in_transit"
+msgstr "En tránsito"
+
+msgid "shipment_status_hold_at_location"
+msgstr "Retenido en ubicación"
+
+msgid "shipment_status_booking_in_process"
+msgstr "Reserva en proceso"
+
+msgid "shipment_status_in_customs_clearance"
+msgstr "En despacho de aduana"
+
+msgid "shipment_status_incident"
+msgstr "Incidente"
+
+msgid "shipment_status_delivered"
+msgstr "Entregado"
+
+msgid "shipment_status_cancelled"
+msgstr "Cancelado"
+
+msgid "shipment_status_store_pickup"
+msgstr "Recogido en tienda"
+
+msgid "shipment_status_booking_error"
+msgstr "Error en la reserva"
+
+msgid "https://enviaya.com.mx/es/ecommerce/woocommerce/"
+msgstr "https://enviaya.com.mx/es/ecommerce/woocommerce/"
+
+msgid "Page Condition"
+msgstr "Condición de la página"
+
+msgid "Plugin will attempt to fetch live shipping rates only on pages that meet specified condition"
+msgstr "El plugin intentará obtener tarifas de envío solo en páginas que cumplan con la condición especificada"
+
+msgid "Any"
+msgstr "Cualquiera"
+
+msgid "Cart and Checkout"
+msgstr "Carrito y pago"
+
+msgid "Checkout"
+msgstr "Pago"
+
+msgid "Use fixed shipment content description"
+msgstr "Usar descripción del contenido del envío fijo"
+
+msgid "By default our plugin submits the names of the articles of the order as the shipment content description. You can override this behavior by defining a fixed content description here."
+msgstr "Por defecto, nuestro plugin envía los nombres de los artículos del pedido como descripción del contenido del envío. Puede anular este comportamiento definiendo una descripción de contenido fijo aquí."
+
+msgid "Fixed shipment content description"
+msgstr "Descripción del contenido del envío fijo"
+
+msgid "Fixed shipment content description is required."
+msgstr "Descripción del contenido del envío fijo es requerido."
